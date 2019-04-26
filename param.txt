@@ -1,0 +1,2 @@
+#n_segments:int min_diam:float max_diam:float min_tolerance:float max_tolerance:float
+10 11 65 0. 1
